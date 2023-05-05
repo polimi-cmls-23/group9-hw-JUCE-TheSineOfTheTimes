@@ -16,7 +16,7 @@ This can be done for each band separately or, by not adding any extra band, for 
 Some effects, such as a downsampler, are available in both tabs and can be used to shape the sound even further.
 
 # Our analysis
-The report of our analysis can be found in the **_Report_** folder in this repository. We chose to focus only on the general structure and the most important parts of the plugin, without going into too much detail in order not to overwhelm the reader with informations (and to keep the report length contained).
+The report of our analysis can be found in the **_report_** folder in this repository. We chose to focus only on the general structure and the most important parts of the plugin, without going into too much detail in order not to overwhelm the reader with informations (and to keep the report length contained).
 
 # Special thanks
 * jerryuhoo AKA Wings for making this plugin and for their very fast answer to our email!
