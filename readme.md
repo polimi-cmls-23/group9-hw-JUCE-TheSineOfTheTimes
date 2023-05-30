@@ -3,8 +3,9 @@
 
 # Video demo
 Click on the image!
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=9yMYShyFvHQ
-" target="_blank"><img src="http://img.youtube.com/vi/9yMYShyFvHQ/0.jpg" 
+" target="_blank"><img src="https://img.youtube.com/vi/9yMYShyFvHQ/maxresdefault.jpg" 
 alt="Fire video demo" width="240" height="180" border="10" /></a>
 
 
