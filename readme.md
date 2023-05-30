@@ -1,5 +1,5 @@
 # **Analysis of the Fire plugin by jerryuhoo**
-## CMLS 2023 HW2 - The Sine Of The Times
+## CMLS 2023 HW2 - Group 9 - The Sine Of The Times
 
 # Video demo
 Click on the image below (the link goes to YouTube)!
