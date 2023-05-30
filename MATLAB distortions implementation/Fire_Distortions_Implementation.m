@@ -32,7 +32,7 @@ sausageOutput = zeros(length(audio),1);
 linearOutput = zeros(length(audio),1);
 logicOutput = zeros(length(audio),1);
 
-for x=11542:length(audio)
+for x=1:length(audio)
     sample = audio(x);
 
     sample = sample * 3; % enhancing distortion effect
