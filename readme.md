@@ -1,6 +1,13 @@
 # **Analysis of the Fire plugin by jerryuhoo**
 ## CMLS 2023 HW2 - The Sine Of The Times
 
+# Video demo
+Click on the image below!
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=9yMYShyFvHQ
+" target="_blank"><img src="http://img.youtube.com/vi/9yMYShyFvHQ/0.jpg" 
+alt="Fire video demo" width="240" height="180" border="10" /></a>
+
+
 # About the plugin
 The object of our analysis is the "Fire" plugin by jerryuhoo, which can be found [here](https://github.com/jerryuhoo/Fire/).
 
