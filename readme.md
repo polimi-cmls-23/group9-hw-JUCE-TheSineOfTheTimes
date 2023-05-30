@@ -2,11 +2,11 @@
 ## CMLS 2023 HW2 - The Sine Of The Times
 
 # Video demo
-Click on the image!
+Click on the image below!
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=9yMYShyFvHQ
 " target="_blank"><img src="https://img.youtube.com/vi/9yMYShyFvHQ/maxresdefault.jpg" 
-alt="Fire video demo" width="240" height="180" border="10" /></a>
+alt="Fire video demo" width="720" height="440" border="10" /></a>
 
 
 # About the plugin
