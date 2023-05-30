@@ -25,7 +25,7 @@ Some effects, such as a downsampler, are available in both tabs and can be used 
 # Our analysis
 The report of our analysis can be found in the **_report_** folder in this repository. We chose to focus only on the general structure and the most important parts of the plugin, without going into too much detail in order not to overwhelm the reader with informations (and to keep the report length contained).
 
-We ported some of the distortion code to MATLAB (see the **_MATLAB distortions implementation_** folder). In the plugin distortion types are divided in 4 groups; we implemented one per group, for a total of four distortions. 
+We ported some of the distortion code to MATLAB (see the **_MATLAB distortions implementation_** folder). In the plugin, distortion types are divided in 4 groups; we implemented one per group, for a total of four distortions. 
 
 # Special thanks
 * jerryuhoo AKA Wings for making this plugin and for their very fast answer to our email!
