@@ -61,6 +61,9 @@ for x=1:length(audio)
 
     % Linear Foldback
     if(sample > 1 || sample < -1)
+    %we realise that fmod here makes little sense since there is an absolute value
+    %we kept it anyway to remain faithful to the original code, but keep in mind
+    %abs(fmod(a,b)) = mod(a,b)
         linearSample = abs(abs(fmod(sample - 1,4)) - 2) - 1;
     else
         linearSample = sample;
